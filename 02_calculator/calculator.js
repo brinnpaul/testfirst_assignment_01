@@ -20,5 +20,6 @@ var createCalculator = function() {
 
 };
 
-var calculator;
-calculator = new createCalculator();
+// Check comments in 01, this code isn't necessary, great solution!
+// var calculator;
+// calculator = new createCalculator();
